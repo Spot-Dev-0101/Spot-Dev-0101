@@ -13,5 +13,5 @@ I couldn't think of anything else to write so here is some extra text to make th
 
 ## Contact
 
-<a href="https://linkedin.com"><img src="https://github.com/Spot-Dev-0101/Spot-Dev-0101/assets/30415619/8bb2f614-75a2-45f3-b0ef-4a3a271a0fff" alt="Linkedin profile link" width="64"/></a>
-<a href="https://x.com"><img src="https://github.com/Spot-Dev-0101/Spot-Dev-0101/assets/30415619/001842b3-1eee-4051-8648-d1efb76cc432" alt="Twitter profile link" width="64"/></a>
+<a href="[https://linkedin.com](https://www.linkedin.com/in/bradley-wilson-330267bb/)"><img src="https://github.com/Spot-Dev-0101/Spot-Dev-0101/assets/30415619/8bb2f614-75a2-45f3-b0ef-4a3a271a0fff" alt="Linkedin profile link" width="64"/></a>
+<!--<a href="https://x.com"><img src="https://github.com/Spot-Dev-0101/Spot-Dev-0101/assets/30415619/001842b3-1eee-4051-8648-d1efb76cc432" alt="Twitter profile link" width="64"/></a>-->
